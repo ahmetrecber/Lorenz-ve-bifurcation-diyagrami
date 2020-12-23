@@ -1,0 +1,2 @@
+# Lorenz-ve-bifurcation-diyagrami
+ 
